@@ -1,4 +1,4 @@
-# BlueWave - Enhanced Bluetooth Audio Analysis Tool
+# BlueWave - Bluetooth Audio Analysis Tool
 
 ![BlueWave Screenshot](screenshot.png)
 
@@ -37,7 +37,7 @@ The PoC was showcased during the **BSAM: Seguridad en Bluetooth** talk at **Root
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BlueWave.git
+   git clone https://github.com/sidinsearch/BlueWave.git
    cd BlueWave
    ```
 
